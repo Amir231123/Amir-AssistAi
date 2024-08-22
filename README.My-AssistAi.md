@@ -1,4 +1,4 @@
-# 👋 Greetings, I'm Amir231123 🤖
+# 👋 Greetings, I'm Amir 🤖
 
 Welcome to **My-AssistAI** — your gateway to the future of AI, GPT, and cutting-edge chatbots! 🌟
 
